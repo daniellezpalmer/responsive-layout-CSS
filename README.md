@@ -6,10 +6,10 @@
 Create a responsive single page app using media queries.
 
 ## TODOS
-- [ ] Add HTML
-- [ ] Style main css
-- [ ] Media query 600px
-- [ ] Media query 1100px
+- [x] Add HTML
+- [x] Style main css
+- [x] Media query 600px
+- [x] Media query 1100px
 
 ## Challenges
 - Figuring out how media queries work
